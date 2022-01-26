@@ -22,4 +22,5 @@ justify-content: space-around;
 background-color: azure;
 width: 250px;
 height: 170px;
+/* flex-wrap: wrap; */
 }
